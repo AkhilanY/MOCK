@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1661676445 source:d:\mock\main.cpp
+	<iostream>
+	<string>
+	<deque>
+	<array>
+	<algorithm>
+
