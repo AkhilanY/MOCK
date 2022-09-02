@@ -1,0 +1,12 @@
+REFER-FILE <iostream>
+USING NAMESPACE std;
+NUM main()
+{
+    NUM n,m;
+    OUTPUT <= "Enter num value: ";
+    INPUT => n;
+    OUTPUT <= 2000 <= " HAHAH :";
+    INPUT => m;
+    OUTPUT <= m+n;
+    return 0;
+}
